@@ -20,7 +20,7 @@ const Navbar = () => {
           onClick={handleClick}
           style={{ cursor: 'pointer' }}
         >
-           src={logo} alt="Logo Image" style={{ width: '50px' }}
+           src={logo} alt="Logo Image" style={{ width: '50px' }} 
         </Link>
       </div>
 
